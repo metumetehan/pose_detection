@@ -35,12 +35,6 @@ flutter run
 2. Stand 1-3 meters from camera
 3. Lime green skeleton tracks your movements
 
-## Documentation
-
-See `other_files/` for detailed docs:
-- `widget_by_widget_explanation.md` - Complete code walkthrough
-- `development_notes.md` - Technical details
-- `EMULATOR_DEBUG_FINDINGS.md` - Debug findings
 
 ## Performance
 
