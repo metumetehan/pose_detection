@@ -19,7 +19,7 @@ Flutter app that detects human poses in real-time using Google ML Kit. Built for
 ## Installation
 
 ### From APK
-1. Download `app-release.apk`
+1. Download `app-release.apk` at https://drive.google.com/file/d/1r3hD9iKeH3YI8Uml-J1Lf71wWB_Mrfwh/view?usp=sharing
 2. Install on Android device (Android 5.0+)
 3. Grant camera permission
 
