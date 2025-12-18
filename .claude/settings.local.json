@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter pub get:*)",
+      "Bash(flutter run:*)",
+      "Bash(timeout /t 30)",
+      "Bash(flutter analyze:*)",
+      "Bash(flutter build:*)",
+      "Bash(Remove-Item -Recurse -Force \"C:\\Users\\metum\\AppData\\Local\\Android\\sdk\\ndk\\28.2.13676358\")",
+      "Bash(taskkill:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
